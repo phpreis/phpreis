@@ -38,3 +38,8 @@
 <p><a href="https://www.buymeacoffee.com/phpreis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phpreis" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phpreis&show_icons=true&locale=en" alt="phpreis" /></p>
+
+
+
+
+![Snake animation](https://github.com/phpreis/phpreis/blob/output/github-contribution-grid-snake.svg)
